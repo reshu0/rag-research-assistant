@@ -20,3 +20,16 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
+
+.venv/
+.env
+__pycache__/
+*.pyc
+
+db/
+chroma_db/
+
+.vscode/
+.idea/
+
+*.ipynb_checkpoints
