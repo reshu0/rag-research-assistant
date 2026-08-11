@@ -1,9 +1,3 @@
-Sure — \*\*copy-paste this entire thing as `README.md`\*\*:
-
-
-
-````markdown
-
 \# RAG Research Assistant
 
 
